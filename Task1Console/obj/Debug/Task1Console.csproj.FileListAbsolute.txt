@@ -1,0 +1,11 @@
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\obj\Debug\Task1Console.csprojResolveAssemblyReference.cache
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\Task1Console.exe.config
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\Task1Console.exe
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\Task1Console.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\Task1.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\obj\Debug\Task1Console.exe
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\obj\Debug\Task1Console.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\NLog.config
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\NLog.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.05\Task1Console\bin\Debug\NLog.xml
