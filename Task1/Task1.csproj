@@ -40,8 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinaryFileBookDao.cs" />
-    <Compile Include="BookDao.cs" />
+    <Compile Include="BinaryFileBookRepository.cs" />
+    <Compile Include="BookRepository.cs" />
     <Compile Include="BookException.cs" />
     <Compile Include="BinaryExtensions.cs" />
     <Compile Include="BookManager.cs" />

@@ -16,7 +16,7 @@ namespace Task1Console
             logger = LogManager.GetCurrentClassLogger();
             try
             {
-                manager = new BookManager(DaoFactory.Dao);                
+                manager = new BookManager(RepositoryFactory.Repository);                
             }
             catch(Exception ex)
             {

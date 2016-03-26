@@ -6,14 +6,14 @@ namespace Task1
 {
     public class BookManager
     {
-        private BookDao _dao;
+        private BookRepository _dao;
         private List<Book> books = new List<Book>();
         public List<Book> Books
         {
             get { return new List<Book>(books); }
         }
 
-        public BookManager(BookDao dao)
+        public BookManager(BookRepository dao)
         {
             if (dao == null)
                 throw new ArgumentNullException("dao is null.");

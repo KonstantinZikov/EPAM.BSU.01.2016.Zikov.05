@@ -5,11 +5,11 @@ using System.IO;
 
 namespace Task1
 {
-    public class BinaryFileBookDao : BookDao
+    public class BinaryFileBookRepository : BookRepository
     {
         private string _path;
 
-        public BinaryFileBookDao(string path)
+        public BinaryFileBookRepository(string path)
         {
             if (path == null)
                 throw new ArgumentNullException("path is null.");
